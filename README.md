@@ -1,17 +1,21 @@
-🚀 Project Overview
+# ⏱️ Stopwatch Web App
 
-This repository contains the deliverables for my web development internship at Skillcraft Technology.
-The project focuses on building a modern, responsive, and user-friendly multi-page website using HTML, CSS, and JavaScript.
+## 📌 Project Overview
+A simple and interactive **Stopwatch application** with basic functionalities like Start, Stop, and Reset.  
+Built with JavaScript timers and styled with CSS.
 
-Each task introduced new concepts, features, and design elements to strengthen front-end development skills.
+## ✨ Features
+- Start, Stop, and Reset controls
+- Millisecond-level accuracy
+- Clean and minimal UI
+- Responsive design
 
-Task 2 – Interactive Navigation Menu
+## 🛠️ Tech Stack
+- HTML5
+- CSS3
+- JavaScript
 
-Created a sticky navbar that remains visible while scrolling.
+## 🌐 Live Demo
+👉 [View Project](https://kotebhakti30.github.io/SCT_WD_2/)
 
-Implemented scroll-based style changes (background + text color) using JavaScript.
-
-Added a mobile hamburger menu for smaller screens.
-
-🚩 Learning: DOM manipulation, event handling, responsive navigation.
-Check it out:https://kotebhakti30.github.io/SCT_WD_2/
+---
