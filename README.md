@@ -13,3 +13,4 @@ Implemented scroll-based style changes (background + text color) using JavaScrip
 Added a mobile hamburger menu for smaller screens.
 
 🚩 Learning: DOM manipulation, event handling, responsive navigation.
+Check it out:https://kotebhakti30.github.io/SCT_WD_2/
